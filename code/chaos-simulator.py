@@ -76,6 +76,7 @@ for k in range(50):
 
     list_caos += [academia.calcular_caos()]
 
+#Gráfico
 plt.figure(figsize=(10, 6))
 plt.hist(list_caos, bins=10, edgecolor='black', color='skyblue', alpha=0.7)
 plt.xlabel('Nível de Caos', fontsize=14)
