@@ -1,4 +1,4 @@
-# python-chaos-simulator
+# Simulador de caos - Academia
 
 Nesta análise, simulamos como seria o dia a dia em uma academia, com 100 pessoas treinando. Dessas, 99 são usuários normais e 1 é um pouco bagunceiro. Cada pessoa precisa de um haltere para treinar.
 
@@ -10,7 +10,7 @@ O histograma mostra a distribuição do nível de caos na academia ao longo dos 
 
 A partir do histograma, podemos observar a distribuição dos níveis de caos na academia. Isso nos permite entender melhor como o comportamento dos usuários, especialmente do usuário bagunceiro, afeta o ambiente da academia. Quanto mais alta uma barra no histograma, mais frequente é o nível de caos correspondente. Isso pode nos ajudar a tomar decisões e implementar políticas para melhorar o funcionamento da academia e reduzir o nível de caos. Por exemplo, podemos aumentar a quantidade de halteres disponíveis ou implementar regras mais rígidas para o usuário bagunceiro devolver os halteres nos lugares corretos.
 
-# resultado
+# Resultado
 
 ![image](https://github.com/crlsmees/python-chaos-simulator/assets/143832741/70a120cc-d4c4-4ea7-b147-557cd8a432a4)
 
